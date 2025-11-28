@@ -1,0 +1,7 @@
+Bit-masking == bit means 0/1 and masking means mask == variable
+$== bit wise and 
+&& == bitwise and
+| = bitwise or
+|| == bitwise or
+~ == bitwise nor 
+! == not
