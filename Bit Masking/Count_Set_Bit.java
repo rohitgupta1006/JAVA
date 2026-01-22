@@ -1,6 +1,6 @@
 public class Count_Set_Bit {
   public static void main(String[] args) {
-    int n=84;
+
   }
   public static int Count_SetBit(int n)
   {
